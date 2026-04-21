@@ -29,5 +29,5 @@ Building production systems · Karachi, Pakistan · Open to Remote
 ---
 
 📧 rayyanahmedk9@gmail.com  
-🔗 [rayyandev.com](https://rayyandev.com)  
+🔗 [rayyandev.com](https://rayyan-portfolio-omega.vercel.app/)
 💼 [linkedin.com/in/rayyanahmedkhan247](https://linkedin.com/in/rayyanahmedkhan247)
