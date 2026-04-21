@@ -12,7 +12,7 @@ Building production systems · Karachi, Pakistan · Open to Remote
 | University Fee Collection (JazzCash) | 5,000+ students | Node.js · Express · MongoDB · React |
 | AI Fee Assistant (RAG Chatbot) | 200+ queries/day | OpenAI · LangChain.js · MongoDB Vector Search |
 | Campus Management System | 5,000+ users | MERN · JWT · Role-based access |
-| ORIC Research Portal | Multi-dept | Laravel 11 · PHP 8 · MySQL · React |
+| ORIC Research Portal | Multi-dept | MERN · Node.js · MySQL · React |
 | Exam Schedule & Duties Module | University-wide | MERN · Socket notifications |
 | HRM Employee Management | Full university | MERN · MySQL |
 
