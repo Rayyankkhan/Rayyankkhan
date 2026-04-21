@@ -1,30 +1,33 @@
-# Hey there! I'm Rayyan Ahmed Khan! 👋
+# Rayyan Ahmed Khan — Full-Stack Developer
 
-I'm a dedicated **MERN stack** developer on a journey of continuous learning and growth in the vast world of web development. Currently, I'm expanding my skill set to include advanced technologies like Next.js, GraphQL, and PostgreSQL to create even more powerful and efficient web applications.
+**MERN · Next.js · TypeScript · AI/LLM Integration**  
+Building production systems · Karachi, Pakistan · Open to Remote
 
-## 🔭 Current Focus
+---
 
-- Mastering Next.js for building fast and scalable React applications with server-side rendering and routing capabilities.
-- Diving deep into GraphQL to create APIs that provide a more flexible and efficient data fetching experience for clients.
-- Leveraging PostgreSQL to build robust and scalable databases for my applications.
+## What I've shipped in production
 
-## 🌱 What I'm Learning
+| System | Scale | Stack |
+|--------|-------|-------|
+| University Fee Collection (JazzCash) | 5,000+ students | Node.js · Express · MongoDB · React |
+| AI Fee Assistant (RAG Chatbot) | 200+ queries/day | OpenAI · LangChain.js · MongoDB Vector Search |
+| Campus Management System | 5,000+ users | MERN · JWT · Role-based access |
+| ORIC Research Portal | Multi-dept | Laravel 11 · PHP 8 · MySQL · React |
+| Exam Schedule & Duties Module | University-wide | MERN · Socket notifications |
+| HRM Employee Management | Full university | MERN · MySQL |
 
-- Next.js for server-side rendering, static site generation, and efficient routing in React applications.
-- GraphQL for creating APIs that allow clients to request only the data they need.
-- PostgreSQL for building relational databases with powerful features for data storage and retrieval.
+---
 
-## 💼 Skills
+## Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
-- **Backend:** Node.js, Express.js, NestJS
-- **Database:** MongoDB, PostgreSQL
-- **Other Technologies:** Socket.IO, GraphQL, Git, RESTful APIs
+**Frontend:** React.js · Next.js · TypeScript · TailwindCSS · Redux Toolkit  
+**Backend:** Node.js · Express.js · Laravel · PHP 8  
+**AI/LLM:** OpenAI API · Anthropic Claude API · LangChain.js · RAG Pipelines  
+**Database:** MongoDB · MySQL · PostgreSQL · MongoDB Vector Search  
+**DevOps:** Git · Docker · Vercel · Render · Linux CLI  
 
-## 📫 Get in Touch
+---
 
-- LinkedIn: [Rayyan Ahmed Khan](https://www.linkedin.com/in/rayyanahmedkhan247/)
-- Email: rayyanahmedk9@gmail.com
-
-Feel free to connect with me if you're interested in collaborating on projects or discussing anything related to web development!
-
+📧 rayyanahmedk9@gmail.com  
+🔗 [rayyandev.com](https://rayyandev.com)  
+💼 [linkedin.com/in/rayyanahmedkhan247](https://linkedin.com/in/rayyanahmedkhan247)
